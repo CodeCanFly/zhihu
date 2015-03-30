@@ -1,8 +1,8 @@
 
 public class Zhihu {
-	private String questionTitle;// 问题
-	private String questionDetail;// 问题描述
-	private String questionUrl;// 网页链接
+	private String questionTitle;// 闂鏍囬
+	private String questionDetail;// 闂鎻忚堪
+	private String questionUrl;// 闂url
 
 	public String getQuestionTitle() {
 		return questionTitle;
